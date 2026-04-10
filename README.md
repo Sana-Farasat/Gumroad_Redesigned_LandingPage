@@ -36,16 +36,6 @@ Instead of simply cloning the UI, the goal was to rethink how the landing experi
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Hero Section
-![Hero](./public/screenshots/hero.png)
-
-### 📱 Responsive Design
-![Responsive](./public/screenshots/responsive.png)
-
----
-
 ## ⚙️ Tech Stack
 
 - **Next.js (App Router)**
